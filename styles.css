@@ -1,2 +1,14 @@
+.holder{
+    
+display: grid;
+grid-template-rows: repeat(2, 200px);
+grid-template-columns: repeat(2,200px);
 
+}
+
+#box
+{
+background-color:;
+border:1px black solid ;
+}
 /* Your CSS Code here. */
